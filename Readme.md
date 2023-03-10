@@ -28,7 +28,7 @@ To run this game, follow these steps:
 7. Open another terminal window and navigate to the project directory.
 8. Run the following command to start the client:
     
-    `python Cilent/client.py`
+    `python Client_Warship/client.py`
     
 6. Enter your name and choose one of the following options:
     - Create a new board: Generates a new board and gives a code
